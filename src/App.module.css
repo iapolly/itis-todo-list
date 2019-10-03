@@ -16,11 +16,7 @@
 }
 
 .listItem {
-    min-height: 100px;
-    background-color: rgba(173, 216, 230, 0.36);
-    margin-top: 20px;
-    position: relative;
-    border-radius: 3px;
+    margin: 20px auto 20px auto;
 }
 
 .closeButton {
